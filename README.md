@@ -1,2 +1,2 @@
 # Python-DS-and-ML
-Here you can see the projects I have done during my education
+Here you can see some of the projects I have done during my work and education. Attention! Some of those projects are accomplished in the Russian language. Translation of all the works to English takes a lot of effort. If you are interested in those projects, please download the .ipynb files, open them in your Jupyter Notebook and use page auto-translation. It does a pretty decent job. I will translate all of them when I will have free time.
